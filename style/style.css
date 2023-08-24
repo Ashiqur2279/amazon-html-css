@@ -1,7 +1,7 @@
 *{
     margin: 0px;
     border: border-box;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Arial, sans-serif;
 }
 
 h1{
@@ -169,3 +169,17 @@ font-size: 2rem;
 /* .cart p{
     position: ;
 } */
+
+/* small nav */
+.small-nav{
+    background-color: #0F1111;
+    height: 40px;
+    display: flex;
+}
+.small-nav a{
+    color: white;
+    margin: 5px 0px 6px;
+    padding: 8px 9px;
+    text-decoration: none;
+
+}
